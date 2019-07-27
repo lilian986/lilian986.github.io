@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-27T08:47:14.796Z</updated>
+  <updated>2019-07-27T10:56:58.555Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hahaha</title>
+    <link href="http://yoursite.com/2019/07/27/hahaha/"/>
+    <id>http://yoursite.com/2019/07/27/hahaha/</id>
+    <published>2019-07-27T10:53:19.000Z</published>
+    <updated>2019-07-27T10:56:58.555Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/2019/07/27/hahaha/avatar.jpg" alt title>                </div>                <div class="image-caption"></div>            </figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+      
+    
+    </summary>
+    
+    
+      <category term="hha" scheme="http://yoursite.com/tags/hha/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2019/07/27/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/07/27/测试/</id>
+    <published>2019-07-27T10:02:48.000Z</published>
+    <updated>2019-07-27T10:04:01.896Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试内容Microsoft Windows [版本 10.0.17134.885]<br>(c) 2018 Microsoft Corporation。保留所有权利。</p><p>C:\Users\lenovo&gt;cd D://blog//blog</p><p>C:\Users\lenovo&gt;D:</p><p>D:\blog\blog&gt;hexo g<br>INFO  Start processing<br>INFO  Files loaded in 157 ms<br>INFO  Deleted: img/avatar.jpg<br>INFO  Generated: archives/index.html<br>INFO  Generated: 2019/07/27/test-article/index.html<br>INFO  Generated: archives/2019/07/index.html<br>INFO  Generated: archives/2019/index.html<br>INFO  Generated: index.html<br>INFO  Generated: 2019/07/27/hello-world/index.html<br>INFO  Generated: img/avator.JPG<br>INFO  7 files generated in 256 ms</p><p>D:\blog\blog&gt;hexo s<br>INFO  Start processing<br>INFO  Hexo is running at <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> . Press Ctrl+C to stop.<br>INFO  Have a nice day<br>终止批处理操作吗(Y/N)?<br>^C<br>D:\blog\blog&gt;hexo d<br>INFO  Deploying: git<br>INFO  Clearing .deploy_git folder…<br>INFO  Copying files from public folder…<br>INFO  Copying files from extend dirs…<br>warning: LF will be replaced by CRLF in 2019/07/27/hello-world/index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in 2019/07/27/test-article/index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in archives/2019/07/index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in archives/2019/index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in archives/index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in atom.xml.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in css/style.css.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/helpers/jquery.fancybox-buttons.css.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/helpers/jquery.fancybox-buttons.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/helpers/jquery.fancybox-media.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/helpers/jquery.fancybox-thumbs.css.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/helpers/jquery.fancybox-thumbs.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.css.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in fancybox/jquery.fancybox.pack.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in index.html.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in js/main.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in js/main.min.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in js/script.js.<br>The file will have its original line endings in your working directory<br>warning: LF will be replaced by CRLF in js/search.js.<br>The file will have its original line endings in your working directory<br>[master aff232c] Site updated: 2019-07-27 17:55:53<br> 10 files changed, 103 insertions(+), 103 deletions(-)<br> rewrite content.json (100%)<br> delete mode 100644 img/avatar.jpg<br> create mode 100644 img/avator.JPG<br>Enumerating objects: 37, done.<br>Counting objects: 100% (37/37), done.<br>Delta compression using up to 12 threads<br>Compressing objects: 100% (15/15), done.<br>Writing objects: 100% (20/20), 108.19 KiB | 21.64 MiB/s, done.<br>Total 20 (delta 9), reused 0 (delta 0)<br>remote: Resolving deltas: 100% (9/9), completed with 6 local objects.<br>To <a href="https://github.com/lilian986/lilian986.github.io.git" target="_blank" rel="noopener">https://github.com/lilian986/lilian986.github.io.git</a><br>   4b5977b..aff232c  HEAD -&gt; master<br>Branch ‘master’ set up to track remote branch ‘master’ from ‘<a href="https://github.com/lilian986/lilian986.github.io.git&#39;" target="_blank" rel="noopener">https://github.com/lilian986/lilian986.github.io.git&#39;</a>.<br>[32mINFO [39m Deploy done: [35mgit[39m</p><p>D:\blog\blog&gt;hexo n “测试”<br>INFO  Created: D:\blog\blog\source_posts\测试.md</p><p>D:\blog\blog&gt;</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试内容Microsoft Windows [版本 10.0.17134.885]&lt;br&gt;(c) 2018 Microsoft Corporation。保留所有权利。&lt;/p&gt;
+&lt;p&gt;C:\Users\lenovo&amp;gt;cd D://blog//blog&lt;/p&gt;
+&lt;p&gt;C:
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>test_article</title>
