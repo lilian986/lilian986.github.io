@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-27T10:56:58.555Z</updated>
+  <updated>2019-07-27T13:37:42.022Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>碎碎念</title>
+    <link href="http://yoursite.com/2019/07/27/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>http://yoursite.com/2019/07/27/碎碎念/</id>
+    <published>2019-07-27T13:28:37.000Z</published>
+    <updated>2019-07-27T13:37:42.022Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/2019/07/27/碎碎念/lilian.jpg" alt title>                </div>                <div class="image-caption"></div>            </figure><p><a href="https://www.yppcat.top/" target="_blank" rel="noopener">我也不知道写点什么，就吐槽一下幼儿园老师吧！</a></p><p><strong>我听说有一种病叫词汇缺乏症</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+      
+    
+    </summary>
+    
+    
+      <category term="diary" scheme="http://yoursite.com/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hahaha</title>
     <link href="http://yoursite.com/2019/07/27/hahaha/"/>
     <id>http://yoursite.com/2019/07/27/hahaha/</id>
     <published>2019-07-27T10:53:19.000Z</published>
-    <updated>2019-07-27T10:56:58.555Z</updated>
+    <updated>2019-07-27T10:59:33.588Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/2019/07/27/hahaha/avatar.jpg" alt title>                </div>                <div class="image-caption"></div>            </figure>]]></content>
     
